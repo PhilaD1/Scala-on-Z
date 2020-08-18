@@ -30,9 +30,9 @@ In this tutorial, We will be using RHEL (7.8, 8) & SLES 15
    ```sh
    # sudo zypper install -y java-11-openjdk java-11-openjdk-devel wget
    ```
-   <img width="681" alt="Screenshot 2020-08-18 at 10 45 13" src="https://user-images.githubusercontent.com/50323060/90491370-20a40c80-e140-11ea-9a93-421552bea7e8.png">
-   
-   <img width="683" alt="Screenshot 2020-08-18 at 10 46 26" src="https://user-images.githubusercontent.com/50323060/90491425-331e4600-e140-11ea-87bf-1429553bbe5c.png">
+   <img width="678" alt="Screenshot 2020-08-18 at 12 36" src="https://user-images.githubusercontent.com/50323060/90503649-1558dd00-e150-11ea-9ea3-60a73e6fdf5f.png">
+    
+<img width="849" alt="Screenshot 2020-08-18 at 12 37 49" src="https://user-images.githubusercontent.com/50323060/90503705-2c97ca80-e150-11ea-8f4e-ac629b70af42.png">
    
    
    ```sh
