@@ -38,8 +38,6 @@ In this tutorial, We will be using RHEL (7.8, 8) & SLES 15
    # sudo zypper install -y tar wget gzip
    ```
 
-<img width="679" alt="Screenshot 2020-08-18 at 12 38 50" src="https://user-images.githubusercontent.com/50323060/90503829-67016780-e150-11ea-97f8-7606366869dd.png">
-
 
 ### Step 2: Download and Install Scala
    
