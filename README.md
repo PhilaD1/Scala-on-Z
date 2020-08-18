@@ -32,7 +32,6 @@ In this tutorial, We will be using RHEL (7.8, 8) & SLES 15
    ```
    <img width="678" alt="Screenshot 2020-08-18 at 12 36" src="https://user-images.githubusercontent.com/50323060/90503649-1558dd00-e150-11ea-9ea3-60a73e6fdf5f.png">
     
-<img width="849" alt="Screenshot 2020-08-18 at 12 37 49" src="https://user-images.githubusercontent.com/50323060/90503705-2c97ca80-e150-11ea-8f4e-ac629b70af42.png">
    
    
    ```sh
