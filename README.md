@@ -66,13 +66,14 @@ In this tutorial, We will be using RHEL (7.8, 8) & SLES 15
    Scala code runner version 2.13.3 -- Copyright 2002-2020, LAMP/EPFL and Lightbend, Inc.
    ```
  
-   ```sh 
+   ```sh
    # scalac -version
-    ```
+   ```
     
    ```sh  
    Scala compiler version 2.13.3 -- Copyright 2002-2020, LAMP/EPFL and Lightbend, Inc.
    ```
+   
   ### Step 3:Testing Scala
   
   3.1 Create at test program
