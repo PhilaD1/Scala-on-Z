@@ -38,7 +38,8 @@ In this tutorial, We will be using RHEL (7.8, 8) & SLES 15
    ```sh
    # sudo zypper install -y tar wget gzip
    ```
-<img width="685" alt="Screenshot 2020-08-18 at 10 46 05" src="https://user-images.githubusercontent.com/50323060/90491476-45987f80-e140-11ea-87f2-4abee0272b79.png">
+
+<img width="679" alt="Screenshot 2020-08-18 at 12 38 50" src="https://user-images.githubusercontent.com/50323060/90503829-67016780-e150-11ea-97f8-7606366869dd.png">
 
 
 ### Step 2: Download and Install Scala
@@ -53,7 +54,7 @@ In this tutorial, We will be using RHEL (7.8, 8) & SLES 15
    ```sh
    # sudo rpm -ivh scala-2.13.3.rpm
    ```
-   <img width="601" alt="Screenshot 2020-08-18 at 10 57 58" src="https://user-images.githubusercontent.com/50323060/90492792-de7bca80-e141-11ea-8e33-10e1f417765e.png">
+ <img width="575" alt="Screenshot 2020-08-18 at 12 39 44" src="https://user-images.githubusercontent.com/50323060/90503911-85676300-e150-11ea-810d-99f0cab7e399.png">
    
  
    2.2 Check Scala & Scalac version
