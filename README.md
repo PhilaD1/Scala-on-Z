@@ -57,6 +57,7 @@ In this tutorial, We will be using RHEL (7.8, 8) & SLES 15
    
  
    2.2 Check Scala & Scalac version
+   
    ```sh
    # scala -version
    ```
